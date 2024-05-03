@@ -1,6 +1,10 @@
+<<<<<<< HEAD
+# Teste
+=======
 # Desafio Teste
 Repositório de teste para novos estagiários 
 
+>>>>>>> b7f60e56a7612e47e181e7a6a7d21beb4ffffab9
 
 Nesta etapa do processo seletivo de novos estagiários criamos este repositório com a finalidade de testar os conhecimentos dos candidatos nas seguintes tecnologias `Git, GitHub, HTML e JavaScript` veja o passo a passo em cada: 
 
