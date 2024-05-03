@@ -8,10 +8,11 @@
     --color-neutral-70: #ffffff;
     --color-link: #58a6ff;
     --color-h1: #513ff7;
+    /* --color-h1: #0f0096; */
 }
 
 h1{
-    color: var(--color-h1);
+    color: #513ff7;
 }
 
 h2{
@@ -29,7 +30,8 @@ body {
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background-color: #0d1117;
+    background: radial-gradient(circle, rgba(15,0,150,1) 0%, rgba(4,0,42,1) 100%);
+
 }
 
 .container {
