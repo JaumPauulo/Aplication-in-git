@@ -7,10 +7,11 @@
     --color-neutral-60: #c9d1d9;
     --color-neutral-70: #ffffff;
     --color-link: #58a6ff;
+    --color-h1: #513ff7;
 }
 
 h1{
-    color: #513ff7;
+    color: var(--color-h1);
 }
 
 h2{
@@ -101,4 +102,8 @@ body {
 .info_mensagem p {
     font-size: 18px;
 
+}
+
+input:focus{
+    border: 1px solid var(--color-h1);
 }
