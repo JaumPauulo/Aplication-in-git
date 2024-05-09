@@ -1,18 +1,4 @@
+#Repositorio voltado para teste usando git.
 
-## Comandos básicos do GIT
-1. Crie uma branch `develop` e realize as modificações descritas acima. 
-```bash
-git checkout -b develop
-```
-2. Faça o Commit. 
-```bash
-git commit -m 'Finished Exercise '
-```
-3. Realize o Push da Branch. 
-
-```bash
-git push origin develop
-```
-4. No **Github** crie um `Pull request` com a `main` do seu Fork, preste atenção para isso.  
-
-```
+Nele estou trabalhando e estudando os comandos mais complexos do bash, resolvendo problemas de merge via prompt de comando para aprender e saber oque esta sendo feito,
+Utilizei uma conta de homolog para realizar um fork no repositorio e ver como funciona realizar pull request via IDE (Visual Studio code + extensões git) e usei o proprio github.
